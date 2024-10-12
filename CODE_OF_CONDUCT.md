@@ -36,12 +36,12 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement via:
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement via our:
 
-1. The Paperback Community [Discord server][Discord Server].
-2. The Paperback Community [GitHub organization][GitHub organization].
+-   [Discord server][Discord Server]
+-   [GitHub organization][GitHub organization]
 
-All complaints will be reviewed and investigated promptly and fairly. All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+All complaints will be reviewed and investigated promptly and fairly and all community leaders are obligated to respect the privacy and security of the reporter of any incident.
 
 ## Enforcement Guidelines
 
