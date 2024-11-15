@@ -1,2 +1,2 @@
 # .github
-Contains organization wide files.
+Organization wide files.
