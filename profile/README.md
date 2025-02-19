@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="../assets/iphone.webp" alt="Paperback App" height="300px">
+	<img src="../assets/iPhone.avif" alt="Paperback App" height="300px">
 	<h1>Paperback Community</h1>
 	<a href="https://paperback-community.github.io/"><img src="https://img.shields.io/badge/website-F64B4B" alt="Join the Paperback Community Discord"></a>&nbsp;<a href="https://discord.gg/paperback-community"><img src="https://img.shields.io/discord/965890377896845352.svg?label=Discord&labelColor=7289da&color=2c2f33&style=flat" alt="Join the Paperback Community Discord"></a>
 </div>
