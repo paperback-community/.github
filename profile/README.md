@@ -1,16 +1,16 @@
 <div align="center">
 	<img src="../assets/iPhone.avif" alt="Paperback App" height="300px">
 	<h1>Paperback Community</h1>
-	<a href="https://paperback-community.github.io/"><img src="https://img.shields.io/badge/Website-F64B4B" alt="Join the Paperback Community Discord"></a>&nbsp;<a href="https://discord.gg/paperback-community"><img src="https://img.shields.io/discord/965890377896845352.svg?label=Discord&labelColor=7289da&color=2c2f33&style=flat" alt="Join the Paperback Community Discord"></a>
+	<a href="https://vaultpack.github.io/"><img src="https://img.shields.io/badge/Website-F64B4B" alt="Join the VaultPack Discord"></a>&nbsp;<a href="https://discord.gg/vaultpack"><img src="https://img.shields.io/discord/965890377896845352.svg?label=Discord&labelColor=7289da&color=2c2f33&style=flat" alt="Join the VaultPack Discord"></a>
 </div>
 
 # About Us
 
-The Paperback Community develops and maintains extensions for the [Paperback app](https://paperback.moe), an ad-free reader for Apple devices that supports manga, comics, novels, and more.
+VaultPack is a community-driven project that develops and maintains extensions for the [Paperback app](https://paperback.moe), an ad-free reader for Apple devices that supports manga, comics, novels, and more.
 
-For detailed guides, extension installation instructions, and more information about our work, visit our [website](https://paperback-community.github.io/).
+For detailed guides, extension installation instructions, and more information about our work, visit our [website](https://vaultpack.github.io/).
 
-You can also join our [Discord server](https://discord.gg/paperback-community) to connect with the community and get support.
+You can also join our [Discord server](https://discord.gg/vaultpack) to connect with the community and get support.
 
 ## Our Projects
 
