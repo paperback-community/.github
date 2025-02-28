@@ -79,7 +79,7 @@ Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcem
 
 For answers to common questions about this code of conduct, see the FAQ at [https://www.contributor-covenant.org/faq][FAQ]. Translations are available at [https://www.contributor-covenant.org/translations][translations].
 
-[Discord Server]: https://discord.gg/netsky-s-basement-965890377896845352
+[Discord Server]: https://discord.gg/paperback-community
 [GitHub Organization]: https://github.com/paperback-community
 [homepage]: https://www.contributor-covenant.org
 [v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
