@@ -17,11 +17,11 @@ You can also join our [Discord server](https://discord.gg/paperback-community) t
 Within our GitHub organization, you'll find several open-source projects, including:
 
 1. All Paperback extensions contributed by the community.
-2. Our website, designed to streamline extension installation.
-3. A template repository for creating your own Paperback extensions.
-4. A GitHub-based registry manager tool to manage extensions efficiently.
+2. Our website, which simplifies extension installation and includes FAQs and extension development documentation.
+3. A template repository that provides a structured starting point for creating and publishing your own Paperback extensions.
+4. A Rust-based registry manager that keeps the extension registry up to date by syncing bundled extensions via GitHub Actions.
+5. A helper npm package that makes applying extension badges easy.
 
 ## Disclaimer
 
 We are an independent community and are not affiliated with the official Paperback team. Additionally, we do not host or distribute any content.
-
